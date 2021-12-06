@@ -1,4 +1,4 @@
-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
+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
 
 token
 Go to Credential Manager from Control Panel => Windows Credentials => find git:https://github.com => Edit => On Password replace with with your GitHub Personal Access Token => You are Done
