@@ -1,4 +1,6 @@
-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
+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
 
 token
-3
+Go to Credential Manager from Control Panel => Windows Credentials => find git:https://github.com => Edit => On Password replace with with your GitHub Personal Access Token => You are Done
+
+If you don’t find git:https://github.com => Click on Add a generic credential => Internet address will be git:https://github.com and you need to type in your username and password will be your GitHub Personal Access Token => Click Ok and you are done
