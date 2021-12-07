@@ -1,4 +1,4 @@
-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
+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
 
 token
 Go to Credential Manager from Control Panel => Windows Credentials => find git:https://github.com => Edit => On Password replace with with your GitHub Personal Access Token => You are Done
@@ -6,3 +6,8 @@ Go to Credential Manager from Control Panel => Windows Credentials => find git:h
 If you don’t find git:https://github.com => Click on Add a generic credential => Internet address will be git:https://github.com and you need to type in your username and password will be your GitHub Personal Access Token => Click Ok and you are done
 
 --eof----
+
+
+git push https://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@github.com/debashishbarik/microservices-demo.git
+
+https://github.com/debashishbarik/microservices-demo.git
